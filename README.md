@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
