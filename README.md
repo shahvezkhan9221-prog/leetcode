@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
