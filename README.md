@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
+| [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
