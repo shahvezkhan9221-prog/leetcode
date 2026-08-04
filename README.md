@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +69,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
