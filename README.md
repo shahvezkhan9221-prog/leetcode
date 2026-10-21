@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2706-buy-two-chocolates](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Ternary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
