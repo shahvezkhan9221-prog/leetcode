@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [2706-buy-two-chocolates](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shahvezkhan9221-prog/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
